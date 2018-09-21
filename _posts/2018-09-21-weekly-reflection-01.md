@@ -13,4 +13,5 @@ So far, my impression of the class is pretty fun, considering I like working wit
 <li>CSS is the style of a webpage(font, color, and family)</li>
 <li>CSS stands for Cascading Style Sheet</li>
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+
+Based on my experience in Computer Science class, I say that the most difficult part about it so far is doing things the way the computer is made to understand. By that I mean, 
