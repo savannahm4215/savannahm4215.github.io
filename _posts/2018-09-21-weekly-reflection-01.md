@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Savannah Major, Blog About Computer Science, Launches Site"
+title: "Savannah Major's Blog(Weekly Reflection #1)"
 date: 2018-09-21
 ---
 
