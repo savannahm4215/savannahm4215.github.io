@@ -14,4 +14,4 @@ So far, my impression of the class is pretty fun, considering I like working wit
 <li>CSS stands for Cascading Style Sheet</li>
 
 
-Based on my experience in Computer Science class, I say that the most difficult part about it so far is doing things the way the computer is made to understand. By that I mean, 
+<h1>Based on my experience in Computer Science class, I say that the most difficult part about it so far is doing things the way the computer is made to understand. By that I mean</h1>
