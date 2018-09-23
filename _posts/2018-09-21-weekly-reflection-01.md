@@ -14,4 +14,4 @@ date: 2018-09-21
 <li>CSS stands for Cascading Style Sheet</li>
 
 
-<p>Based on my experience in Computer Science class, I say that the most difficult part about it so far is doing things the way the computer is made to understand. By that I mean, the computer is senstive meaning that it might not follow an action given because you added a space to a place that a space wasn't needed or you might've placed a file in an incorrect folder.</p>
+<small>Based on my experience in Computer Science class, I say that the most difficult part about it so far is doing things the way the computer is made to understand. By that I mean, the computer is senstive meaning that it might not follow an action given because you added a space to a place that a space wasn't needed or you might've placed a file in an incorrect folder.</small>
