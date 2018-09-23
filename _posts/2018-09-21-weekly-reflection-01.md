@@ -16,11 +16,11 @@ date: 2018-09-21
 
 <p>Based on my experience in Computer Science class, I say that the most difficult part about it so far is doing things the way the computer is made to understand. By that I mean, the computer is senstive meaning that it might not follow an action given because you added a space to a place that a space wasn't needed or you might've placed a file in an incorrect folder.</p>
 
-<style>
-  h1 {
+ <style>
+        h1 {
             color: rgb(0, 0, 0);
         }
         body {
             background-color: rgb(120, 188, 240);
         }
-</style>
+        </style>
