@@ -4,7 +4,7 @@ title: "Savannah Major's Blog(Weekly Reflection #1)"
 date: 2018-09-21
 ---
 
-So far, my impression of the class is pretty fun, considering I like working with computers. Overall, our first project, making a website, is going very well and is coming out really great. Personally, I can't wait until I get the hang of creating and designing a website all on my own. In Mr. Allatta's class, I've learned that...
+<p>So far, my impression of the class is pretty fun, considering I like working with computers. Overall, our first project, making a website, is going very well and is coming out really great. Personally, I can't wait until I get the hang of creating and designing a website all on my own. In Mr. Allatta's class, I've learned that...</p>
 
 <li><strong>The Web-is a system of interlinked documents accessed via the internet</strong></li>
 <li>HTML stands for Hyper Text Markup</li>
