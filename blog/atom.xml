@@ -24,7 +24,9 @@ layout: feed
 		</entry>
 	{% endfor %}
 
- <style>
+</feed>
+
+<style>
         h1 {
             color: rgb(0, 0, 0);
         }
@@ -33,4 +35,3 @@ layout: feed
         }
         </style>
 	
-</feed>
