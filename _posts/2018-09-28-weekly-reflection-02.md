@@ -14,3 +14,5 @@ date: 2018-09-28
 <li>X-axis represents a ruler</li>
 <li>When something moves from right to left in a video game, it means the x value is decreasing</li>
   
+
+<p>Currently, some challenges and/or struggles I have faced was getting used to using WeScheme, which is an online programming environment based on DrRacket and Scheme. I'm getting the hang of using the website to solve expressions, which is what we are working on so far in my Computer Science class. I've been attached to using a calculator to solve expressions, and I have never used a website like Wescheme before. However, I am eager to successfully be able to use Wescheme on my own.</p>
