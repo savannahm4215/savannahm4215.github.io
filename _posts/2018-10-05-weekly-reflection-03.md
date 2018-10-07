@@ -8,12 +8,11 @@ date: 2018-10-05
 
 <p>Currently, out of all the things we did this week, I'd say that the most challenging part was when we had to find and create a flag of our choice. I believe this is the most challenging part only because it is difficult to make the flag as accurate as possible. Although I find creating the flag challenging, I feel like I am doing a good job so far.</p>
 
-  <style>
+ <style>
         h1 {
             color: rgb(0, 0, 0);
         }
         body {
-    background-image: url("gradient_bg.png");
-    }
-
+            background-color: rgb(120, 188, 240);
+        }
         </style>
