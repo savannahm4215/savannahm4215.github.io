@@ -17,11 +17,11 @@ date: 2018-09-28
 
 <p>Currently, some challenges and/or struggles I have faced was getting used to using WeScheme, which is an online programming environment based on DrRacket and Scheme. I'm getting the hang of using the website to solve expressions, which is what we are working on so far in my Computer Science class. I've been attached to using a calculator to solve expressions, and I have never used a website like Wescheme before. However, I am eager to successfully be able to use Wescheme on my own.</p>
 
- <style>
+  <style>
         h1 {
             color: rgb(0, 0, 0);
         }
         body {
-            background-color: rgb(120, 188, 240);
+            background-color: rgb(172, 0, 245);
         }
         </style>
