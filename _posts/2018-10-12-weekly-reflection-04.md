@@ -12,3 +12,12 @@ date: 2018-10-12
 
 <p>Overall my learning is fast paced because in my Computer Science we use a certain style of notes. For example, we use cornell notes, which helps me keep my notes organized and help me study more efficiently when I have to. Based on the notes I took for the week, one connection I could make is that we needed to learn how to create a computer contract before moving on to coding shapes. For example, we have learned how to create a computer contract on October 9th of last week, which was needed to code shapes this week. I'd say that so far the most challenging part of this week was trying to code some of the shapes with my partner during pair programming because some shapes required you to code three shapes in one, which I found difficult. </p>
 
+ <style>
+        h1 {
+            color: rgb(0, 0, 0);
+        }
+        body {
+            background-color: rgb(172, 0, 245);
+        }
+        </style>
+
