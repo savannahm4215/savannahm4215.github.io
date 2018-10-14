@@ -13,6 +13,6 @@ date: 2018-10-05
             color: rgb(0, 0, 0);
         }
         body {
-            background-color: rgb(120, 188, 240);
+            background-color: rgb(172, 0, 245);
         }
         </style>
