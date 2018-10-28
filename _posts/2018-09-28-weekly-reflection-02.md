@@ -19,7 +19,7 @@ date: 2018-09-28
 
   <style>
         h1 {
-            color: rgb(0, 0, 0);
+            color: rgb(255, 255, 255);
         }
         body {
             background-color: rgb(172, 0, 245);
