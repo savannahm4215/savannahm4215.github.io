@@ -9,4 +9,14 @@ date: 2018-12-07
 
 <h1>Part 2 - My Questions and Challenges</h1>
 
-<p> With project, I'd say that I have run into some </p>
+<p> With project, I'd say that I have run into some challenges. One challenge I ran into while doing this project is that I didn't enough time to complete the project simce I didn't come to school the day before to work on the project. Additionally, one challenge I ran into while doing this project is the lack of construction paper left for me to make my collage. The challenges I have presented could easily be fixed if I have more time to do this project and if I was given fresh construction paper to work with.</p>
+
+<style>
+        h1 {
+            color: rgb(255, 255, 255);
+        }
+        body {
+            background-color: rgb(172, 0, 245);
+        }
+        </style>
+
