@@ -25,3 +25,14 @@ Welcome to Weekly Reflection #13, this week, we were required to once again to c
 
 
 ![FlagV2](/images/FlagV2.png)
+
+<style>
+        h1 {
+            color: rgb(255, 255, 255);
+        }
+        body {
+            background-color: rgb(172, 0, 245);
+        }
+        </style>
+
+
