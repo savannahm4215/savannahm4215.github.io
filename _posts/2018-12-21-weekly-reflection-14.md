@@ -6,9 +6,9 @@ date: 2018-12-21
 
 ## Flag of Pakistan by Savannah 
 
-## Describe your program
+## Description of my program
 
--   I designed the Pakistan Flag using Wescheme
+-   I designed the Pakistan Flag using Wescheme. At first, I thought I would have trouble doing this project but it turned out great.
 -   I expect at least a Practitioner on this project 
 
 
@@ -18,29 +18,26 @@ date: 2018-12-21
 ![Flag](/images/FlagV2.png)
 * * *
 
-## Describe your process.
+## Description of my process
 
 - One strategy one of my classmates gave to me was to use two circles to create the cresent on my flag
-- One question I had was how can I get 
+- One question I had was how can I make the flag the same color as the actual Pakistan flag?
 
-## Explain your code.
+## Explanation of my code
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+-   The argument "CIR2" helped me halfway create the cresent needed for my flag to be complete. While, the argument "STAR" helped me create the star needed for the Pakistan flag, also it helped me get the star at the right angle. The argument "FLAG" helped create the base needed for my flag's width and height.
 
 * * *
 
-```
-Insert 10-15 line code section here _then delete this instruction_
-```
+```(define CIR2 (circle SIZE "solid" GREEN))
+
+(define STAR (rotate 100 (star (* 5 7) "solid" "white" )))
+
+(define FLAG (rectangle (* 2 250) (* 2 HEIGHT) "outline" "black"))
+
+(put-image STAR 365 200(put-image CIR2 340 175 (put-image CIR1 310 HEIGHT (put-image REC 350 HEIGHT FLAG))))```
 
 * * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
 
 
 ## Program code
