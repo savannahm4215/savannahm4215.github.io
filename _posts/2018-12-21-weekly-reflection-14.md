@@ -61,12 +61,3 @@ date: 2018-12-21
 (put-image STAR 365 200(put-image CIR2 340 175 (put-image CIR1 310 HEIGHT (put-image REC 350 HEIGHT FLAG))))```
 
 
-  <style>
-        h1 {
-            color: rgb(255, 255, 255);
-        }
-        body {
-            background-color: rgb(172, 0, 245);
-        }
-        </style>
-
